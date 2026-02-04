@@ -1,0 +1,2 @@
+pilars 5x2x23
+foundation (block) 25.25x22.0267x5
